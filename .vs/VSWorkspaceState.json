@@ -1,7 +1,18 @@
 {
   "ExpandedNodes": [
+<<<<<<< HEAD
     ""
   ],
   "SelectedNode": "\\stringPrograms.sln",
+=======
+    "",
+    "\\stringPrograms",
+    "\\stringPrograms\\capsLock",
+    "\\stringPrograms\\stringPrograms",
+    "\\stringPrograms\\subString",
+    "\\stringPrograms\\wow"
+  ],
+  "SelectedNode": "\\stringPrograms\\wow\\wow.cpp",
+>>>>>>> 922b342077af5dba659a68d447578730a08e0727
   "PreviewInSolutionExplorer": false
 }
