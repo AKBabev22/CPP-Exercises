@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (stringPrograms.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Anamin.cpp
+C:\Users\akbabev22\source\repos\stringPrograms\stringPrograms\Anamin.cpp(9,14): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  stringPrograms.vcxproj -> C:\Users\akbabev22\source\repos\stringPrograms\x64\Debug\Anamin.exe

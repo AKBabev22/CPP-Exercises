@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akbabev22\\source\\repos\\stringPrograms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0896C4B5-E51A-4464-B844-C459B72AA364}|wow\\wow.vcxproj|C:\\Users\\akbabev22\\source\\repos\\stringPrograms\\wow\\wow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0896C4B5-E51A-4464-B844-C459B72AA364}|wow\\wow.vcxproj|solutionrelative:wow\\wow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "wow.cpp",
+              "DocumentMoniker": "C:\\Users\\akbabev22\\source\\repos\\stringPrograms\\wow\\wow.cpp",
+              "RelativeDocumentMoniker": "wow\\wow.cpp",
+              "ToolTip": "C:\\Users\\akbabev22\\source\\repos\\stringPrograms\\wow\\wow.cpp",
+              "RelativeToolTip": "wow\\wow.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-04T20:13:18.801Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
