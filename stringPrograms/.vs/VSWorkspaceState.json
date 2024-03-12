@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\elephantGame",
     "\\stringPrograms",
-    "\\stringPrograms\\wow"
+    "\\subString"
   ],
-  "SelectedNode": "\\stringPrograms\\wow\\wow.cpp",
+  "SelectedNode": "\\stringPrograms.sln",
   "PreviewInSolutionExplorer": false
 }

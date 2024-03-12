@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{1FED0EF8-39E8-495F-AA78-375192A0C848}|capsLock\\capsLock.vcxproj|solutionrelative:capsLock\\capsLock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{59B986B6-2D43-47F8-B343-D4A3BC491F16}|chickenDecoder (String)\\chickenDecoder (String).vcxproj|C:\\Users\\akbabev22\\source\\repos\\CPP-Exercises\\stringPrograms\\chickenDecoder (String)\\chickenDecoder (String).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59B986B6-2D43-47F8-B343-D4A3BC491F16}|chickenDecoder (String)\\chickenDecoder (String).vcxproj|solutionrelative:chickenDecoder (String)\\chickenDecoder (String).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E10C24A8-5B4A-49CF-A0DA-532888D6F6B4}|elephantGame\\elephantGame.vcxproj|C:\\Users\\akbabev22\\source\\repos\\CPP-Exercises\\stringPrograms\\elephantGame\\elephantGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E10C24A8-5B4A-49CF-A0DA-532888D6F6B4}|elephantGame\\elephantGame.vcxproj|solutionrelative:elephantGame\\elephantGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222426EA-4EAC-4D6A-9F66-9383AB841303}|subString\\subString.vcxproj|C:\\Users\\akbabev22\\source\\repos\\CPP-Exercises\\stringPrograms\\subString\\subWord2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{222426EA-4EAC-4D6A-9F66-9383AB841303}|subString\\subString.vcxproj|solutionrelative:subString\\subWord2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8D80759-37AE-431A-B844-398096D5FA61}|Yoda (String)\\Yoda (String).vcxproj|C:\\Users\\akbabev22\\source\\repos\\CPP-Exercises\\stringPrograms\\Yoda (String)\\Yoda (String).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{04568FBE-ED27-46D4-A5E2-5E4E14B8F0D6}|stringPrograms\\stringPrograms.vcxproj|C:\\Users\\akbabev22\\source\\repos\\CPP-Exercises\\stringPrograms\\stringPrograms\\Anamin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{04568FBE-ED27-46D4-A5E2-5E4E14B8F0D6}|stringPrograms\\stringPrograms.vcxproj|solutionrelative:stringPrograms\\Anamin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{222426EA-4EAC-4D6A-9F66-9383AB841303}|subString\\subString.vcxproj|C:\\Users\\akbabev22\\source\\repos\\CPP-Exercises\\stringPrograms\\subString\\subWord2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{222426EA-4EAC-4D6A-9F66-9383AB841303}|subString\\subString.vcxproj|solutionrelative:subString\\subWord2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{48E81AF4-A48D-4748-806D-C5E8A618F7B2}|biggestSum (String)\\biggestSum (String).vcxproj|C:\\Users\\akbabev22\\source\\repos\\CPP-Exercises\\stringPrograms\\biggestSum (String)\\biggestSum (String).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -38,68 +42,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "chickenDecoder (String).cpp",
+              "DocumentMoniker": "C:\\Users\\akbabev22\\source\\repos\\CPP-Exercises\\stringPrograms\\chickenDecoder (String)\\chickenDecoder (String).cpp",
+              "RelativeDocumentMoniker": "chickenDecoder (String)\\chickenDecoder (String).cpp",
+              "ToolTip": "C:\\Users\\akbabev22\\source\\repos\\CPP-Exercises\\stringPrograms\\chickenDecoder (String)\\chickenDecoder (String).cpp",
+              "RelativeToolTip": "chickenDecoder (String)\\chickenDecoder (String).cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-06T23:53:26.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "elephantGame.cpp",
               "DocumentMoniker": "C:\\Users\\akbabev22\\source\\repos\\CPP-Exercises\\stringPrograms\\elephantGame\\elephantGame.cpp",
               "RelativeDocumentMoniker": "elephantGame\\elephantGame.cpp",
               "ToolTip": "C:\\Users\\akbabev22\\source\\repos\\CPP-Exercises\\stringPrograms\\elephantGame\\elephantGame.cpp",
               "RelativeToolTip": "elephantGame\\elephantGame.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-06T19:23:04.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Anamin.cpp",
               "DocumentMoniker": "C:\\Users\\akbabev22\\source\\repos\\CPP-Exercises\\stringPrograms\\stringPrograms\\Anamin.cpp",
               "RelativeDocumentMoniker": "stringPrograms\\Anamin.cpp",
               "ToolTip": "C:\\Users\\akbabev22\\source\\repos\\CPP-Exercises\\stringPrograms\\stringPrograms\\Anamin.cpp",
               "RelativeToolTip": "stringPrograms\\Anamin.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-06T17:19:04.905Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Yoda (String).cpp",
               "DocumentMoniker": "C:\\Users\\akbabev22\\source\\repos\\CPP-Exercises\\stringPrograms\\Yoda (String)\\Yoda (String).cpp",
               "RelativeDocumentMoniker": "Yoda (String)\\Yoda (String).cpp",
               "ToolTip": "C:\\Users\\akbabev22\\source\\repos\\CPP-Exercises\\stringPrograms\\Yoda (String)\\Yoda (String).cpp",
               "RelativeToolTip": "Yoda (String)\\Yoda (String).cpp",
-              "ViewState": "AQIAAAgAAAAAAAAABAAYwBMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-06T17:12:35.936Z"
+              "WhenOpened": "2024-03-06T17:12:35.936Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "biggestSum (String).cpp",
               "DocumentMoniker": "C:\\Users\\akbabev22\\source\\repos\\CPP-Exercises\\stringPrograms\\biggestSum (String)\\biggestSum (String).cpp",
               "RelativeDocumentMoniker": "biggestSum (String)\\biggestSum (String).cpp",
               "ToolTip": "C:\\Users\\akbabev22\\source\\repos\\CPP-Exercises\\stringPrograms\\biggestSum (String)\\biggestSum (String).cpp",
               "RelativeToolTip": "biggestSum (String)\\biggestSum (String).cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-06T17:05:56.137Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "subWord2.cpp",
               "DocumentMoniker": "C:\\Users\\akbabev22\\source\\repos\\CPP-Exercises\\stringPrograms\\subString\\subWord2.cpp",
               "RelativeDocumentMoniker": "subString\\subWord2.cpp",
               "ToolTip": "C:\\Users\\akbabev22\\source\\repos\\CPP-Exercises\\stringPrograms\\subString\\subWord2.cpp",
               "RelativeToolTip": "subString\\subWord2.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-06T16:47:52.154Z"
+              "WhenOpened": "2024-03-06T16:47:52.154Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -109,20 +128,20 @@
               "RelativeDocumentMoniker": "capsLock\\capsLock.cpp",
               "ToolTip": "C:\\Users\\akbabev22\\source\\repos\\CPP-Exercises\\stringPrograms\\capsLock\\capsLock.cpp",
               "RelativeToolTip": "capsLock\\capsLock.cpp",
-              "ViewState": "AQIAACAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAABhi58kwAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-06T16:47:17.654Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "wow.cpp",
               "DocumentMoniker": "C:\\Users\\akbabev22\\source\\repos\\CPP-Exercises\\stringPrograms\\wow\\wow.cpp",
               "RelativeDocumentMoniker": "wow\\wow.cpp",
               "ToolTip": "C:\\Users\\akbabev22\\source\\repos\\CPP-Exercises\\stringPrograms\\wow\\wow.cpp",
               "RelativeToolTip": "wow\\wow.cpp",
-              "ViewState": "AQIAAAcAAABgfX19jTUiwBkAAAADAAAA",
+              "ViewState": "AQIAAAIAAAAAAMCOYYgnwBwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-04T20:13:18.801Z"
             }

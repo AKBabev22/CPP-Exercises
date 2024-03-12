@@ -1,0 +1,3 @@
+﻿  chickenDecoder (String).cpp
+C:\Users\akbabev22\source\repos\CPP-Exercises\stringPrograms\chickenDecoder (String)\chickenDecoder (String).cpp(23,28): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  chickenDecoder (String).vcxproj -> C:\Users\akbabev22\source\repos\CPP-Exercises\stringPrograms\x64\Debug\chickenDecoder (String).exe

@@ -1,0 +1,3 @@
+﻿  subWord2.cpp
+C:\Users\akbabev22\source\repos\CPP-Exercises\stringPrograms\subString\subWord2.cpp(9,14): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  subString.vcxproj -> C:\Users\akbabev22\source\repos\CPP-Exercises\stringPrograms\x64\Debug\subWord2.exe

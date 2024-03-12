@@ -1,5 +1,5 @@
 ﻿  Yoda (String).cpp
 C:\Users\akbabev22\source\repos\CPP-Exercises\stringPrograms\Yoda (String)\Yoda (String).cpp(9,14): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\akbabev22\source\repos\CPP-Exercises\stringPrograms\Yoda (String)\Yoda (String).cpp(21,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\akbabev22\source\repos\CPP-Exercises\stringPrograms\Yoda (String)\Yoda (String).cpp(31,28): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\akbabev22\source\repos\CPP-Exercises\stringPrograms\Yoda (String)\Yoda (String).cpp(19,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\akbabev22\source\repos\CPP-Exercises\stringPrograms\Yoda (String)\Yoda (String).cpp(29,28): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
   Yoda (String).vcxproj -> C:\Users\akbabev22\source\repos\CPP-Exercises\stringPrograms\x64\Debug\Yoda (String).exe

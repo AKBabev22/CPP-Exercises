@@ -13,8 +13,6 @@ int main()
 		swap(s[i], s[(len - 1) - i]);
 	}
 
-	cout << s;
-
 	do
 	{
 		subS = s.substr(pos, s.find(' ', pos) - 1);
